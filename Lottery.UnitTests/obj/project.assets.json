@@ -15523,11 +15523,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Source\\Repos\\LotteryWeb\\Lottery.UnitTests\\Lottery.UnitTests.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Source\\Repos\\LotteryWeb\\src\\Lottery.UnitTests\\Lottery.UnitTests.csproj",
       "projectName": "Lottery.UnitTests",
-      "projectPath": "C:\\Users\\User\\Source\\Repos\\LotteryWeb\\Lottery.UnitTests\\Lottery.UnitTests.csproj",
+      "projectPath": "C:\\Users\\User\\Source\\Repos\\LotteryWeb\\src\\Lottery.UnitTests\\Lottery.UnitTests.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Source\\Repos\\LotteryWeb\\Lottery.UnitTests\\obj\\",
+      "outputPath": "C:\\Users\\User\\Source\\Repos\\LotteryWeb\\src\\Lottery.UnitTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -15546,8 +15546,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\User\\Source\\Repos\\LotteryWeb\\Lottery.WebAPI\\Lottery.WebAPI.csproj": {
-              "projectPath": "C:\\Users\\User\\Source\\Repos\\LotteryWeb\\Lottery.WebAPI\\Lottery.WebAPI.csproj"
+            "C:\\Users\\User\\Source\\Repos\\LotteryWeb\\src\\Lottery.WebAPI\\Lottery.WebAPI.csproj": {
+              "projectPath": "C:\\Users\\User\\Source\\Repos\\LotteryWeb\\src\\Lottery.WebAPI\\Lottery.WebAPI.csproj"
             }
           }
         }

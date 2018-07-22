@@ -14301,11 +14301,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Source\\Repos\\LotteryWeb\\Lottery.WebAPI\\Lottery.WebAPI.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Source\\Repos\\LotteryWeb\\src\\Lottery.WebAPI\\Lottery.WebAPI.csproj",
       "projectName": "Lottery.WebAPI",
-      "projectPath": "C:\\Users\\User\\Source\\Repos\\LotteryWeb\\Lottery.WebAPI\\Lottery.WebAPI.csproj",
+      "projectPath": "C:\\Users\\User\\Source\\Repos\\LotteryWeb\\src\\Lottery.WebAPI\\Lottery.WebAPI.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Source\\Repos\\LotteryWeb\\Lottery.WebAPI\\obj\\",
+      "outputPath": "C:\\Users\\User\\Source\\Repos\\LotteryWeb\\src\\Lottery.WebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
